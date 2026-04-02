@@ -1,0 +1,5 @@
+,season,flood_auc,drought_auc,samples
+0,Winter (Jun-Aug),0.5,0.9999835155996427,2760
+1,Summer (Dec-Feb),0.2081627589629078,1.0,2702
+2,Autumn (Mar-May),0.10627949183303083,0.5,2760
+3,Spring (Sep-Nov),0.06741514086354335,1.0,2730

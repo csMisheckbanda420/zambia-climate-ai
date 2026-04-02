@@ -1,0 +1,14 @@
+streamlit
+streamlit-folium
+streamlit-searchbox
+folium
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+python-dateutil
+
