@@ -3,9 +3,9 @@ services:
   - type: web
     name: zambia-climate-ai
     runtime: python
-    repo: https://github.com/YOUR_USERNAME/zambia-climate-ai
+    repo: https://github.com/csMisheckbanda420/zambia-climate-ai
     plan: free
-    region: frankfurt  # Closest to Zambia
+    region: frankfurt
     buildCommand: |
       pip install --upgrade pip
       pip install -r requirements.txt
